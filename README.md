@@ -1,1 +1,1 @@
-**Coming Soon.**
+A high-performance OLAP engine for schema-agnostic log analytics. Store structured logs instantly, query nested JSON fields, and run lightning-fast vector searches to extract deep, multi-dimensional insights.
